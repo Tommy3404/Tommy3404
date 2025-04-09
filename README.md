@@ -2,7 +2,7 @@
 
 <h2>About Me</h2>
 
-<p>I am a full stack developer in MERN (MongoDB, Express, React, Node.js) and IOS development. I have an Associate Certification in App Development with Swift. I have expertise in web development, iOS app development, and being proficient in using git and github. I am currently a student at Fort Hays Tech Northwest in the App Development and Emerging Technologies program.</p>
+<p>I am a full stack developer in MERN (MongoDB, Express, React, Node.js) and iOS development. I have an Associate Certification in App Development with Swift. I have expertise in web development, iOS app development, and being proficient in using git and github. I am currently a student at Fort Hays Tech Northwest in the App Development and Emerging Technologies program.</p>
 
 <h2>Skills</h2>
 
