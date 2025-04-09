@@ -24,6 +24,8 @@
 <ul>
   <li>Camp Inventory Project</li>
   <li>Pixel Art</li>
+  <li>National Park</li>
+  <li>Adventure</li>
 </ul>
 
 <h2>Certifications</h2>
