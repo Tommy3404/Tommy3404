@@ -26,6 +26,11 @@
   <li>Pixel Art</li>
   <li>National Park</li>
   <li>Adventure</li>
+  <li>Pool Tournament</li>
+  <li>April Fools Project</li>
+  <li>Time Clock Challenge</li>
+  <li>Lava Lamp</li>
+  <li>Email Clone</li>
 </ul>
 
 <h2>Certifications</h2>
